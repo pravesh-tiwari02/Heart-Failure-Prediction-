@@ -21,7 +21,7 @@ Performance
 Among all models tested, Random Forest yielded the highest accuracy at 95%, demonstrating its effectiveness in predicting heart disease based on given parameters.
 
 Dataset
-The dataset used for this project is publicly available on Kaggle: Heart Disease UCI Dataset
+The dataset used for this project is publicly available on Kaggle: 
 
 Usage
 Install Python and required libraries (Scikit-learn, Keras, Pandas, etc.).
